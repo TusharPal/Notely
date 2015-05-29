@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/tusharpal/AndroidStudioProjects/Notely/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/tusharpal/AndroidStudioProjects/Notely/app/build/intermediates/pre-dexed/debug/classes-9f3609b67ae79a90310d7f00b9728e71b5436c85.jar" />
+    </item>
+    <item
+        jar="/Users/tusharpal/Downloads/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/tusharpal/AndroidStudioProjects/Notely/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-4d139dde957089ad6643822cc24261d6ae612c97.jar" />
+    </item>
+    <item
+        jar="/Users/tusharpal/AndroidStudioProjects/Notely/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/tusharpal/AndroidStudioProjects/Notely/app/build/intermediates/pre-dexed/debug/classes-0e888e72b39dc7b8e8687b2d641672434b2bb89d.jar" />
+    </item>
+    <item
+        jar="/Users/tusharpal/AndroidStudioProjects/Notely/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/tusharpal/AndroidStudioProjects/Notely/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-577cc555bc065c212a69a774c29eab70980f6d13.jar" />
+    </item>
+
+</items>

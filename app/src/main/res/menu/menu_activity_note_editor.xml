@@ -1,0 +1,13 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ActivityMain">
+
+    <item
+        android:id="@+id/action_save_activity_note_editor"
+        android:title="Save"
+        android:icon="@drawable/ic_action_save"
+        android:orderInCategory="100"
+        app:showAsAction="always"/>
+</menu>
