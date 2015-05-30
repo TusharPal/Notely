@@ -3,6 +3,7 @@ package com.a1kesamose.notely.activity;
 import android.app.AlertDialog;
 import android.content.Context;
 import android.content.DialogInterface;
+import android.os.Build;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
 import android.view.LayoutInflater;
@@ -37,6 +38,10 @@ public class ActivityMain extends ActionBarActivity implements AdapterView.OnIte
     protected void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
+        if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP)
+        {
+            setTheme(android.R.style.Theme_Material);
+        }
         setContentView(R.layout.activity_main);
 
         databaseSourceNote = new DatabaseSourceNote(this);
